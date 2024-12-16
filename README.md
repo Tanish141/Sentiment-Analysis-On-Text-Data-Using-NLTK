@@ -45,7 +45,7 @@ Feature extraction by converting words into a dictionary format.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/Sentiment-Analysis-Movie-Reviews.git  
+git clone https://github.com/Tanish141/Sentiment-Analysis-Movie-Reviews.git  
 Navigate to the project directory:
 bash
 Copy code
